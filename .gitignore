@@ -1,0 +1,14 @@
+.idea
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+*.zip
+.settings
+.buildpath
+.project
+*.sql
+/order.monogramonline.com-access.log
+/order.monogramonline.com-error.log
+bin
